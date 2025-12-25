@@ -14,7 +14,11 @@ An e-commerce website featuring a visually appealing homepage, detailed product 
 - **Responsive Design:** Optimized for mobile and tablet devices.
 - **Contact & Support:** Reach out with questions or issues.
 
+## Technologies Used
+- **Frontend:** HTML, CSS
+- **Backend:** Java (for server-side logic and dynamic content)
+
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aliabbas/ecommerce-website.git
+   git clone https://github.com/your-username/ecommerce-website.git
